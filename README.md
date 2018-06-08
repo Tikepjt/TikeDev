@@ -2,4 +2,4 @@
 
 This is Tike website.
 
-tikedev.com
+[TIKE](http://tikedev.com)
